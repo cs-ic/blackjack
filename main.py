@@ -62,9 +62,6 @@ class Game(Blackjack):
         return check
             
 
-
-            # print(player, self.players[player]) Print Cards
-
     
         
 if __name__ == '__main__':
